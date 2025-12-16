@@ -14,6 +14,5 @@ I am a bioinfo undergraduate starting my journey into smart contract security.
 - Audit-style reporting
 
 ## Progress Log
-- [ ] Solidity basics
-- [ ] First smart contract
-- [ ] First vulnerability reproduction
+- [x] Day 1: Created first Solidity contract and pushed to GitHub
+
