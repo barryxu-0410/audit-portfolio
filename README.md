@@ -1,2 +1,19 @@
-# audit-portfolio
-My learning journey into smart contract security
+# Audit Portfolio
+
+I am a bioinfo undergraduate starting my journey into smart contract security.
+
+## Current Status
+- Background: Beginner
+- Focus: Solidity & Smart Contract Security
+- Goal: Apply for a blockchain security internship
+
+## Learning Plan
+- Solidity basics
+- Foundry testing
+- Vulnerability analysis
+- Audit-style reporting
+
+## Progress Log
+- [ ] Solidity basics
+- [ ] First smart contract
+- [ ] First vulnerability reproduction
