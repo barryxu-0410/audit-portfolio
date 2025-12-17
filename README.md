@@ -15,4 +15,5 @@ I am a bioinfo undergraduate starting my journey into smart contract security.
 
 ## Progress Log
 - [x] Day 1: Created first Solidity contract and pushed to GitHub
+- [x] Day 2: valuetypes,function,return,datastorage
 
